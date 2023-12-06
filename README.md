@@ -1,0 +1,2 @@
+# SparkSQL_Home_Sales
+ Determine key metrics about home sales data. Then with Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
